@@ -23,9 +23,11 @@
     
     namespace PJZ9n\SimpleCasino;
     
-    class Main
+    use pocketmine\plugin\PluginBase;
+
+    class Main extends PluginBase
     {
         
         //
-        
+    
     }
